@@ -4,7 +4,6 @@
 	<name>estadosmex.kmz</name>
 	<Style id="shp2kml">
 		<IconStyle>
-			<scale>0.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pal4/icon49.png</href>
 			</Icon>
