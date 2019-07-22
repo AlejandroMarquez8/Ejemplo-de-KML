@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SeccionNorte</name>
+    <description/>
+    <NetworkLink>
+      <name>SeccionNorte</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1LX6r771ODJMs-9ADMMhybx4lWaubcbuA]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
